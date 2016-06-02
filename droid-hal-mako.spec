@@ -8,6 +8,8 @@
 
 %define installable_zip 1
 
+%define enable_kernel_update 1
+
 # android_config is the set of #defines needed by libhybris builds to
 # be injected into android_config.h
 # This could eventually be obtained by parsing the BoardConfig.mk
