@@ -1,4 +1,0 @@
-[submodule "dhd"]
-	path = dhd
-	url = https://github.com/ballock/droid-hal-device
-	branch = hybris-12.1
